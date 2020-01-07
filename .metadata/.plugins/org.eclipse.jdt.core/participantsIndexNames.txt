@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\ACODINGDOJO\codingdojo_java\servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4158191378.index
+\Setup\src
+D:\ACODINGDOJO\codingdojo_java\servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3138853283.index
+\Setup\src
+D:\ACODINGDOJO\codingdojo_java\servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3862358332.index
+\SetUpMVC\src

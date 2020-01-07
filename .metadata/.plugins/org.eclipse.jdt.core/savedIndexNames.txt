@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\ACODINGDOJO\codingdojo_java\servlets\.metadata\.plugins\org.eclipse.jdt.core
+4114762832.index
+1670601354.index
+3899713286.index
+2032872818.index
+4287024.index
+2380175872.index
